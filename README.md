@@ -3,7 +3,7 @@
 Pariconha - Alagoas - Nordeste - Brasil 🇧🇷
 
 <div>
-<a href="https://github.com/zenilto">
+<a href="https://github.com/zeniltom">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniltom&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeniltom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
