@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeniltom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/zeniltom/zeniltom/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zeniltom/blob/output/github-contribution-grid-snake.svg)
   
 ### Contatos:
 
