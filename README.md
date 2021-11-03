@@ -7,10 +7,7 @@
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zeniltom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniltom&layout=compact&langs_count=7&theme=dracula"/>
 
-<div style="margin: 15
-px
-;
-    text-align: center;">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
