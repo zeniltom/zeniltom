@@ -1,16 +1,20 @@
 ## Olá, me chamo Zenilton !  
-### Bem vindo ao meu perfil GitHub 👋
-
-<div style="margin: 10px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
-</div>
+### Bem vindo ao meu perfil GitHub! 😃
+Pariconha - Alagoas - Nordeste - Brasil 🇧🇷
 
 <div>
 <a href="https://github.com/zenilto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniltom&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeniltom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<div style="padding: 20px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" />
+</div>  
   
 ### Contatos:
 
